@@ -1,0 +1,1 @@
+pyinstaller --clean -w -F remove_letter_in_csv_gui.py
